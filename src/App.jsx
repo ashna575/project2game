@@ -1,14 +1,15 @@
 
 import './App.css'
-
+import Chai from './pages/chai'
 function App() {
   
 
   return (
  
- <div >
+ < >
+ < Chai />
 priyal
- </div> )
+ </> )
 }
 
 export default App
